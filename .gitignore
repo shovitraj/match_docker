@@ -1,0 +1,4 @@
+__pycache__
+.env
+.ipynd_checkpoints
+.DS_STORE

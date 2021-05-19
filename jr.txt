@@ -1,0 +1,34 @@
+Full-Stack developer
+
+Responsibilities:
+
+As a Fullstack Software Developer, you will be responsible
+for working on creating User Interface with React and Typescript
+on the Front-end and Node on the back-end. You will be working
+in a fast-paced startup environment where continuous innovation
+and learning opportunities are endless. You will get an opportunity
+to master TypeScript, JavaScript, modern ReactJS, NodeJS, 
+Redux, HTML5, CSS3, etc. Your responsibilities will also include:
+
+Design, develop and test enterprise-grade web applications following best practices.
+Craft beautiful User Interface based on our design.
+Collaborate with peers on a remote environment.
+Drive innovation through rapid prototyping and iterative development.
+Identify and document best practices.
+
+Requirements:
+
+Proficient in client-side TypeScript or JavaScript, HTML5, CSS3, ReactJS, Redux, React Hooks, Context API, etc.
+Competent in developing NodeJS applications and single-page web applications.
+Proficient in Data Structures and Algorithms.
+Experience in cross-browser, cross-platform and API development on the web.
+Experience in writing automated unit-tests and functional tests.
+Have a passion for writing quality, readable, clean, and performant code.
+Good communications skills.
+5+ years of software design and web application development.
+Computer Science background preferred.
+
+
+
+Alekh's Resume:
+ProfileEnthusiastic software engineer with 1+ year experience in software development. Research oriented and more interested towards the logic and design architecture of applications and solution. Previous experience with a real time, daily operational application.ExperienceOct-2019–PresentSoftware Engineer • LIS Nepal Pvt. Ltd. (Yomari Inc. Pvt. Ltd.)Full stack developer of Trade Management System under Nepal Stock Exchange Project built on JAVA EE, Angular 7 and SQL Server.Achievements:• Integration and maintenance of Online Payment gateways.• Development of Online Registration System.EducationBachelors in Computer Engineering, Tribhuwan University, Kathmandu [2015-2019]• Machine Learning Project to classify nepali news into pre-defined categories.• Topper of the batch.Skills• Java, Spring, Spring boot, J2EE, Python, MS SQL, PostgreSQL.• JavaScript, Angular.• Practical knowledge of SQL, database concepts and design.• Familiar with technologies like RabbitMQ, Git, Maven, Jenkins.• Experienced with project tracking tools like Redmine.• Heavy concentration in data structures, algorithms and software architecture.• Adaptability and excellent communication skills.GatthagharBhaktapur, Bagmati Province, Nepal+977-9842842344alekh737@gmail.comwww.linkedin.com/in/alekh-pandey

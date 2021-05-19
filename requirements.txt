@@ -1,0 +1,12 @@
+pandas==1.2.3
+tika==1.24
+nltk==3.6.2
+spacy==2.3.5
+sentence_transformers==1.1.1
+# spacy_streamlit==1.0.0
+numpy==1.20.1
+plotly==4.14.3
+streamlit==0.82.0
+gensim==3.8.3
+scikit_learn==0.24.2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
